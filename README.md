@@ -6,7 +6,7 @@ CS student (B.Tech, G.H. Raisoni College of Engineering) who likes building thin
 
 ---
 
-### 🚀 What I'm building
+###  Have a Look What I actually build :
 
 **[SkillBridge](https://github.com/mayankbambal2005/skillbridge)** — AI-powered peer-to-peer skill exchange platform
 A full-stack skill-bartering app with a token economy (teach 1 hr = earn 1 token = learn 1 hr) and a weighted 5-factor matching algorithm. Redis caching cut match retrieval time by ~40%. Includes WebRTC video sessions with a custom Spring Boot signaling server, real-time WebSocket chat backed by MongoDB, and a LangChain4j AI assessment engine — all containerized across 6 services with Docker Compose.
