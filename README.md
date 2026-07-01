@@ -22,7 +22,7 @@ Coordinates 5+ concurrent AI agents with RAG-based memory, hitting ~90% context 
 
 ---
 
-### 🛠️ Tech I work with
+### Tech I work with
 
 **Languages:** Java, Python, JavaScript, TypeScript, SQL
 **Frontend:** React.js, Tailwind CSS, HTML
@@ -34,7 +34,7 @@ Coordinates 5+ concurrent AI agents with RAG-based memory, hitting ~90% context 
 
 ---
 
-### 📫 Reach me
+### Reach me
 
 - LinkedIn: [linkedin.com/in/mayank-bambal-725835410](https://linkedin.com/in/mayank-bambal-725835410)
 - Email: mayankbambal50@gmail.com
