@@ -12,7 +12,7 @@ CS student (B.Tech, G.H. Raisoni College of Engineering) who likes building thin
 A full-stack skill-bartering app with a token economy (teach 1 hr = earn 1 token = learn 1 hr) and a weighted 5-factor matching algorithm. Redis caching cut match retrieval time by ~40%. Includes WebRTC video sessions with a custom Spring Boot signaling server, real-time WebSocket chat backed by MongoDB, and a LangChain4j AI assessment engine — all containerized across 6 services with Docker Compose.
 `Java` `React.js` `Spring Boot` `WebRTC` `Docker`
 
-**[Aluminite](https://github.com/mayankbambal2005/aluminite)** — Alumni networking Android app
+**[Alumnunite](https://github.com/mayankbambal2005/alumnunite)** — Alumni networking Android app
 A social app for alumni with auth, post feeds, and announcements — onboarded 50+ users during testing. Uses Firebase Realtime Database and Cloud Storage, cutting sync latency by ~35% and supporting media uploads across multiple screen sizes.
 `Android Studio` `Firebase` `Java`
 
