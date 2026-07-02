@@ -1,6 +1,6 @@
 # Hello, I am Mayank Vijay Bambal. 
 
-Full-Stack Developer | DSA enthusiast | Building AI Websites & apps
+Full-Stack Developer | DSA enthusiast | Building AI Websites & Android apps
 
 CS student (B.Tech, G.H. Raisoni College of Engineering) who likes building things end-to-end — from backend architecture to the UI that sits on top of it. Lately I've been deep in AI-powered systems (multi-agent orchestration, RAG) and full-stack platforms with real-time features like WebRTC and WebSocket.
 
