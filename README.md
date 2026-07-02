@@ -25,11 +25,17 @@ Coordinates 5+ concurrent AI agents with RAG-based memory, hitting ~90% context 
 ### Tech I work with
 
 **Languages:** Java, Python, JavaScript, TypeScript, SQL
+
 **Frontend:** React.js, Tailwind CSS, HTML
+
 **Backend & DB:** Spring Boot, FastAPI, REST APIs, PostgreSQL, MongoDB, Firebase
+
 **Real-time:** WebSocket, WebRTC
+
 **AI/ML:** LangChain, LangChain4j, FAISS, RAG
+
 **Tools:** Git, GitHub, Docker, IntelliJ IDEA, Android Studio
+
 **Concepts:** DSA, OOP, DBMS
 
 ---
