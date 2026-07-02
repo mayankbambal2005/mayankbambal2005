@@ -1,4 +1,4 @@
-# Hi, I am Mayank Bambal 👋
+# Hello, I am Mayank Vijay Bambal. 
 
 Full-Stack Developer | DSA enthusiast | Building AI & Android apps
 
